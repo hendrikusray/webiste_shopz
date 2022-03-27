@@ -1,2 +1,2 @@
 # webiste_shopz
-for educational purpose
+for educational purposes
