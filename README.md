@@ -1,2 +1,2 @@
 # webiste_shopz
-just learning
+for educational purpose
