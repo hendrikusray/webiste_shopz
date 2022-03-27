@@ -1,2 +1,2 @@
 # webiste_shopz
-just learninf
+just learning
